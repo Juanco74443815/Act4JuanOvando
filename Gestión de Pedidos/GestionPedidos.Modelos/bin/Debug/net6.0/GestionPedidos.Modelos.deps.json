@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GestionPedidos.Modelos/1.0.0": {
+        "runtime": {
+          "GestionPedidos.Modelos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GestionPedidos.Modelos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

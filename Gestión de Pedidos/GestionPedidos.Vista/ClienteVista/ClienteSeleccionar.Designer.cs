@@ -1,16 +1,16 @@
-﻿namespace GestionPedidos.Vista.ClienteVista
+﻿namespace GestionPedidos.VISTA.ClienteVista
 {
     partial class ClienteSeleccionar
     {
-        /// <summary> 
-        /// Variable del diseñador necesaria.
+        /// <summary>
+        /// Required designer variable.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
-        /// <summary> 
-        /// Limpiar los recursos que se estén usando.
+        /// <summary>
+        /// Clean up any resources being used.
         /// </summary>
-        /// <param name="disposing">true si los recursos administrados se deben desechar; false en caso contrario.</param>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
@@ -20,18 +20,78 @@
             base.Dispose(disposing);
         }
 
-        #region Código generado por el Diseñador de componentes
+        #region Windows Form Designer generated code
 
-        /// <summary> 
-        /// Método necesario para admitir el Diseñador. No se puede modificar
-        /// el contenido de este método con el editor de código.
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
         /// </summary>
         private void InitializeComponent()
         {
-            components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            dataGridView1 = new DataGridView();
+            button1 = new Button();
+            button5 = new Button();
+            ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
+            SuspendLayout();
+            // 
+            // dataGridView1
+            // 
+            dataGridView1.AllowUserToAddRows = false;
+            dataGridView1.AllowUserToDeleteRows = false;
+            dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridView1.Location = new Point(12, 12);
+            dataGridView1.Name = "dataGridView1";
+            dataGridView1.ReadOnly = true;
+            dataGridView1.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
+            dataGridView1.Size = new Size(396, 314);
+            dataGridView1.TabIndex = 0;
+            dataGridView1.CellContentClick += dataGridView1_CellContentClick;
+            // 
+            // button1
+            // 
+            button1.DialogResult = DialogResult.OK;
+            button1.Font = new Font("Segoe UI", 8F, FontStyle.Bold, GraphicsUnit.Point);
+            button1.Location = new Point(293, 343);
+            button1.Name = "button1";
+            button1.Size = new Size(111, 23);
+            button1.TabIndex = 1;
+            button1.Text = "SELECCIONAR";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
+            // 
+            // button5
+            // 
+            button5.BackColor = Color.LightGray;
+            button5.Font = new Font("Franklin Gothic Medium Cond", 9F, FontStyle.Regular, GraphicsUnit.Point);
+            button5.Location = new Point(25, 344);
+            button5.Name = "button5";
+            button5.Size = new Size(115, 22);
+            button5.TabIndex = 31;
+            button5.Text = "HISTORIAL";
+            button5.UseVisualStyleBackColor = false;
+            button5.Click += button5_Click;
+            // 
+            // ClienteSeleccionar
+            // 
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            BackColor = Color.Green;
+            ClientSize = new Size(416, 413);
+            Controls.Add(button5);
+            Controls.Add(button1);
+            Controls.Add(dataGridView1);
+            ForeColor = SystemColors.ControlText;
+            Name = "ClienteSeleccionar";
+            Text = "ClienteSeleccionar";
+            Load += ClienteSeleccionar_Load;
+            ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
+            ResumeLayout(false);
         }
 
         #endregion
+
+        private DataGridView dataGridView1;
+        private Button button1;
+        private Button button5;
     }
 }

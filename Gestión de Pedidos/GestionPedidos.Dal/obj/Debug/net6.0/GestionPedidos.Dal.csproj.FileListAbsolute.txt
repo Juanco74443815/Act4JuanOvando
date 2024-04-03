@@ -1,0 +1,15 @@
+D:\Act4Actualizada\Act4JuanOvando\Gestión de Pedidos\GestionPedidos.Dal\bin\Debug\net6.0\GestionPedidos.Dal.deps.json
+D:\Act4Actualizada\Act4JuanOvando\Gestión de Pedidos\GestionPedidos.Dal\bin\Debug\net6.0\GestionPedidos.Dal.dll
+D:\Act4Actualizada\Act4JuanOvando\Gestión de Pedidos\GestionPedidos.Dal\bin\Debug\net6.0\GestionPedidos.Dal.pdb
+D:\Act4Actualizada\Act4JuanOvando\Gestión de Pedidos\GestionPedidos.Dal\bin\Debug\net6.0\GestionPedidos.Modelos.dll
+D:\Act4Actualizada\Act4JuanOvando\Gestión de Pedidos\GestionPedidos.Dal\bin\Debug\net6.0\GestionPedidos.Modelos.pdb
+D:\Act4Actualizada\Act4JuanOvando\Gestión de Pedidos\GestionPedidos.Dal\obj\Debug\net6.0\GestionPedidos.Dal.csproj.AssemblyReference.cache
+D:\Act4Actualizada\Act4JuanOvando\Gestión de Pedidos\GestionPedidos.Dal\obj\Debug\net6.0\GestionPedidos.Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Act4Actualizada\Act4JuanOvando\Gestión de Pedidos\GestionPedidos.Dal\obj\Debug\net6.0\GestionPedidos.Dal.AssemblyInfoInputs.cache
+D:\Act4Actualizada\Act4JuanOvando\Gestión de Pedidos\GestionPedidos.Dal\obj\Debug\net6.0\GestionPedidos.Dal.AssemblyInfo.cs
+D:\Act4Actualizada\Act4JuanOvando\Gestión de Pedidos\GestionPedidos.Dal\obj\Debug\net6.0\GestionPedidos.Dal.csproj.CoreCompileInputs.cache
+D:\Act4Actualizada\Act4JuanOvando\Gestión de Pedidos\GestionPedidos.Dal\obj\Debug\net6.0\GestionPedidos.Dal.csproj.CopyComplete
+D:\Act4Actualizada\Act4JuanOvando\Gestión de Pedidos\GestionPedidos.Dal\obj\Debug\net6.0\GestionPedidos.Dal.dll
+D:\Act4Actualizada\Act4JuanOvando\Gestión de Pedidos\GestionPedidos.Dal\obj\Debug\net6.0\refint\GestionPedidos.Dal.dll
+D:\Act4Actualizada\Act4JuanOvando\Gestión de Pedidos\GestionPedidos.Dal\obj\Debug\net6.0\GestionPedidos.Dal.pdb
+D:\Act4Actualizada\Act4JuanOvando\Gestión de Pedidos\GestionPedidos.Dal\obj\Debug\net6.0\ref\GestionPedidos.Dal.dll

@@ -9,6 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\GestionPedidos.Bss\GestionPedidos.Bss.csproj" />
     <ProjectReference Include="..\GestionPedidos.Modelos\GestionPedidos.Modelos.csproj" />
   </ItemGroup>
 

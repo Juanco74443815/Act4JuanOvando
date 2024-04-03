@@ -1,0 +1,17 @@
+D:\Act4Actualizada\Act4JuanOvando\Gestión de Pedidos\GestionPedidos.Bss\bin\Debug\net6.0\GestionPedidos.Bss.deps.json
+D:\Act4Actualizada\Act4JuanOvando\Gestión de Pedidos\GestionPedidos.Bss\bin\Debug\net6.0\GestionPedidos.Bss.dll
+D:\Act4Actualizada\Act4JuanOvando\Gestión de Pedidos\GestionPedidos.Bss\bin\Debug\net6.0\GestionPedidos.Bss.pdb
+D:\Act4Actualizada\Act4JuanOvando\Gestión de Pedidos\GestionPedidos.Bss\bin\Debug\net6.0\GestionPedidos.Dal.dll
+D:\Act4Actualizada\Act4JuanOvando\Gestión de Pedidos\GestionPedidos.Bss\bin\Debug\net6.0\GestionPedidos.Modelos.dll
+D:\Act4Actualizada\Act4JuanOvando\Gestión de Pedidos\GestionPedidos.Bss\bin\Debug\net6.0\GestionPedidos.Dal.pdb
+D:\Act4Actualizada\Act4JuanOvando\Gestión de Pedidos\GestionPedidos.Bss\bin\Debug\net6.0\GestionPedidos.Modelos.pdb
+D:\Act4Actualizada\Act4JuanOvando\Gestión de Pedidos\GestionPedidos.Bss\obj\Debug\net6.0\GestionPedidos.Bss.csproj.AssemblyReference.cache
+D:\Act4Actualizada\Act4JuanOvando\Gestión de Pedidos\GestionPedidos.Bss\obj\Debug\net6.0\GestionPedidos.Bss.GeneratedMSBuildEditorConfig.editorconfig
+D:\Act4Actualizada\Act4JuanOvando\Gestión de Pedidos\GestionPedidos.Bss\obj\Debug\net6.0\GestionPedidos.Bss.AssemblyInfoInputs.cache
+D:\Act4Actualizada\Act4JuanOvando\Gestión de Pedidos\GestionPedidos.Bss\obj\Debug\net6.0\GestionPedidos.Bss.AssemblyInfo.cs
+D:\Act4Actualizada\Act4JuanOvando\Gestión de Pedidos\GestionPedidos.Bss\obj\Debug\net6.0\GestionPedidos.Bss.csproj.CoreCompileInputs.cache
+D:\Act4Actualizada\Act4JuanOvando\Gestión de Pedidos\GestionPedidos.Bss\obj\Debug\net6.0\GestionPedidos.Bss.csproj.CopyComplete
+D:\Act4Actualizada\Act4JuanOvando\Gestión de Pedidos\GestionPedidos.Bss\obj\Debug\net6.0\GestionPedidos.Bss.dll
+D:\Act4Actualizada\Act4JuanOvando\Gestión de Pedidos\GestionPedidos.Bss\obj\Debug\net6.0\refint\GestionPedidos.Bss.dll
+D:\Act4Actualizada\Act4JuanOvando\Gestión de Pedidos\GestionPedidos.Bss\obj\Debug\net6.0\GestionPedidos.Bss.pdb
+D:\Act4Actualizada\Act4JuanOvando\Gestión de Pedidos\GestionPedidos.Bss\obj\Debug\net6.0\ref\GestionPedidos.Bss.dll

@@ -19,16 +19,16 @@ PRIMARY KEY (IDPEDIDO),
 FOREIGN KEY (IDCLIENTE) REFERENCES CLIENTE (IDCLIENTE)
 );
 
-INSERT INTO CLIENTE VALUES ('Pedro', 'Fernandez', '+59172979377', 'pedro@gmail.com', 'Una dirección');
-INSERT INTO CLIENTE VALUES ('Adrián', 'Pérez', '+59161234567', 'adrian@gmail.com', 'Otra dirección');
+INSERT INTO CLIENTE VALUES ('Rocio', 'Fernandez', '+59172979377', 'pedro@gmail.com', 'Senac');
+INSERT INTO CLIENTE VALUES ('Jorge', 'Pérez', '+59161234567', 'adrian@gmail.com', 'Juan XXIII');
 INSERT INTO CLIENTE VALUES ('Belén', 'González', '+59173456789', 'belen@gmail.com', 'Una tercera dirección');
 INSERT INTO CLIENTE VALUES ('Ana', 'Rodríguez', '+59169876543', 'ana@gmail.com', 'Una cuarta dirección');
-INSERT INTO CLIENTE VALUES ('Elena', 'Martínez', '+59166554433', 'elena@gmail.com', 'Calle Principal 123');
-INSERT INTO CLIENTE VALUES ('Mario', 'López', '+59177788899', 'mario@gmail.com', 'Avenida Central 456');
+INSERT INTO CLIENTE VALUES ('Elena', 'Martínez', '+59166554433', 'elena@gmail.com', 'Avenida Principal');
+INSERT INTO CLIENTE VALUES ('Mario', 'López', '+59177788899', 'mario@gmail.com', 'Centro');
 INSERT INTO CLIENTE VALUES ('Laura', 'García', '+59199988877', 'laura@gmail.com', 'Calle Secundaria 789');
 INSERT INTO CLIENTE VALUES ('Roberto', 'Sánchez', '+59133344455', 'roberto@gmail.com', 'Calle Principal 101');
 INSERT INTO CLIENTE VALUES ('Sara', 'Hernández', '+59166655544', 'sara@gmail.com', 'Avenida Central 222');
-
+INSERT INTO CLIENTE VALUES ('Gabriela', 'Mallcu', '+59166655548', 'Gabi@gmail.com', 'Juan XXIII');
 
 INSERT INTO PEDIDO VALUES (5, '2024-03-19 11:00:00', 80.00, 'Pendiente');
 INSERT INTO PEDIDO VALUES (6, '2024-03-20 13:20:00', 90.00, 'En proceso');

@@ -8,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SistemaVentas.BSS
+namespace GestionPedidos.BSS
 {
     public class ClienteBSS
     {

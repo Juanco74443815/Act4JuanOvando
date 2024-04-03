@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\laboratorio a\\.nuget\\packages\\": {},
+    "C:\\Users\\juana\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Act4JuanOvando\\Act4JuanOvando\\Gestión de Pedidos\\GestionPedidos.Modelos\\GestionPedidos.Modelos.csproj",
+      "projectUniqueName": "D:\\Act4Actualizada\\Act4JuanOvando\\Gestión de Pedidos\\GestionPedidos.Modelos\\GestionPedidos.Modelos.csproj",
       "projectName": "GestionPedidos.Modelos",
-      "projectPath": "D:\\Act4JuanOvando\\Act4JuanOvando\\Gestión de Pedidos\\GestionPedidos.Modelos\\GestionPedidos.Modelos.csproj",
-      "packagesPath": "C:\\Users\\laboratorio a\\.nuget\\packages\\",
-      "outputPath": "D:\\Act4JuanOvando\\Act4JuanOvando\\Gestión de Pedidos\\GestionPedidos.Modelos\\obj\\",
+      "projectPath": "D:\\Act4Actualizada\\Act4JuanOvando\\Gestión de Pedidos\\GestionPedidos.Modelos\\GestionPedidos.Modelos.csproj",
+      "packagesPath": "C:\\Users\\juana\\.nuget\\packages\\",
+      "outputPath": "D:\\Act4Actualizada\\Act4JuanOvando\\Gestión de Pedidos\\GestionPedidos.Modelos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\laboratorio a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\juana\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -33,7 +33,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -67,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

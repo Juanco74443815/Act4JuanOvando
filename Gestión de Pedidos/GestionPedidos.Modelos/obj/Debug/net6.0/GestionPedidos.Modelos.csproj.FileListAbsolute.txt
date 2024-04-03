@@ -1,0 +1,11 @@
+D:\Act4Actualizada\Act4JuanOvando\Gestión de Pedidos\GestionPedidos.Modelos\bin\Debug\net6.0\GestionPedidos.Modelos.deps.json
+D:\Act4Actualizada\Act4JuanOvando\Gestión de Pedidos\GestionPedidos.Modelos\bin\Debug\net6.0\GestionPedidos.Modelos.dll
+D:\Act4Actualizada\Act4JuanOvando\Gestión de Pedidos\GestionPedidos.Modelos\bin\Debug\net6.0\GestionPedidos.Modelos.pdb
+D:\Act4Actualizada\Act4JuanOvando\Gestión de Pedidos\GestionPedidos.Modelos\obj\Debug\net6.0\GestionPedidos.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Act4Actualizada\Act4JuanOvando\Gestión de Pedidos\GestionPedidos.Modelos\obj\Debug\net6.0\GestionPedidos.Modelos.AssemblyInfoInputs.cache
+D:\Act4Actualizada\Act4JuanOvando\Gestión de Pedidos\GestionPedidos.Modelos\obj\Debug\net6.0\GestionPedidos.Modelos.AssemblyInfo.cs
+D:\Act4Actualizada\Act4JuanOvando\Gestión de Pedidos\GestionPedidos.Modelos\obj\Debug\net6.0\GestionPedidos.Modelos.csproj.CoreCompileInputs.cache
+D:\Act4Actualizada\Act4JuanOvando\Gestión de Pedidos\GestionPedidos.Modelos\obj\Debug\net6.0\GestionPedidos.Modelos.dll
+D:\Act4Actualizada\Act4JuanOvando\Gestión de Pedidos\GestionPedidos.Modelos\obj\Debug\net6.0\refint\GestionPedidos.Modelos.dll
+D:\Act4Actualizada\Act4JuanOvando\Gestión de Pedidos\GestionPedidos.Modelos\obj\Debug\net6.0\GestionPedidos.Modelos.pdb
+D:\Act4Actualizada\Act4JuanOvando\Gestión de Pedidos\GestionPedidos.Modelos\obj\Debug\net6.0\ref\GestionPedidos.Modelos.dll
