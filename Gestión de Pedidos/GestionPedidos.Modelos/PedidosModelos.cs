@@ -6,7 +6,16 @@ using System.Threading.Tasks;
 
 namespace GestionPedidos.Modelos
 {
-    internal class PedidosModelos
+    public class Pedidos
     {
+        public int IdPedido { get; set; }
+
+        public int IdCliente { get; set;}
+
+        public DateTime fecha { get; set;}
+
+        public decimal Total { get; set;}
+
+        public string Estado { get; set;}
     }
 }

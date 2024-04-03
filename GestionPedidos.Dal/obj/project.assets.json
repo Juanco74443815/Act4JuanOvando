@@ -147,20 +147,6 @@
           }
         }
       },
-      "GestionPedidos.Dal/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "GestionPedidos.Modelos": "1.0.0",
-          "System.Data.SqlClient": "4.8.6"
-        },
-        "compile": {
-          "bin/placeholder/GestionPedidos.Dal.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/GestionPedidos.Dal.dll": {}
-        }
-      },
       "GestionPedidos.Modelos/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -487,21 +473,16 @@
         "version.txt"
       ]
     },
-    "GestionPedidos.Dal/1.0.0": {
-      "type": "project",
-      "path": "../GestionPedidos.Dal/GestionPedidos.Dal.csproj",
-      "msbuildProject": "../GestionPedidos.Dal/GestionPedidos.Dal.csproj"
-    },
     "GestionPedidos.Modelos/1.0.0": {
       "type": "project",
-      "path": "../GestionPedidos.Modelos/GestionPedidos.Modelos.csproj",
-      "msbuildProject": "../GestionPedidos.Modelos/GestionPedidos.Modelos.csproj"
+      "path": "../../../ProyectoFinalJuanOvando/ProyectoFinal/Gestión de Pedidos/GestionPedidos.Modelos/GestionPedidos.Modelos.csproj",
+      "msbuildProject": "../../../ProyectoFinalJuanOvando/ProyectoFinal/Gestión de Pedidos/GestionPedidos.Modelos/GestionPedidos.Modelos.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "GestionPedidos.Dal >= 1.0.0",
-      "GestionPedidos.Modelos >= 1.0.0"
+      "GestionPedidos.Modelos >= 1.0.0",
+      "System.Data.SqlClient >= 4.8.6"
     ]
   },
   "packageFolders": {
@@ -511,11 +492,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Act4JuanOvando\\Act4JuanOvando\\Gestión de Pedidos\\GestionPedidos.Bss\\GestionPedidos.Bss.csproj",
-      "projectName": "GestionPedidos.Bss",
-      "projectPath": "D:\\Act4JuanOvando\\Act4JuanOvando\\Gestión de Pedidos\\GestionPedidos.Bss\\GestionPedidos.Bss.csproj",
+      "projectUniqueName": "D:\\Act4JuanOvando\\Act4JuanOvando\\GestionPedidos.Dal\\GestionPedidos.Dal.csproj",
+      "projectName": "GestionPedidos.Dal",
+      "projectPath": "D:\\Act4JuanOvando\\Act4JuanOvando\\GestionPedidos.Dal\\GestionPedidos.Dal.csproj",
       "packagesPath": "C:\\Users\\laboratorio a\\.nuget\\packages\\",
-      "outputPath": "D:\\Act4JuanOvando\\Act4JuanOvando\\Gestión de Pedidos\\GestionPedidos.Bss\\obj\\",
+      "outputPath": "D:\\Act4JuanOvando\\Act4JuanOvando\\GestionPedidos.Dal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -537,14 +518,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Act4JuanOvando\\Act4JuanOvando\\GestionPedidos.Dal\\GestionPedidos.Dal.csproj": {
-              "projectPath": "D:\\Act4JuanOvando\\Act4JuanOvando\\GestionPedidos.Dal\\GestionPedidos.Dal.csproj"
-            },
-            "D:\\Act4JuanOvando\\Act4JuanOvando\\Gestión de Pedidos\\GestionPedidos.Dal\\GestionPedidos.Dal.csproj": {
-              "projectPath": "D:\\Act4JuanOvando\\Act4JuanOvando\\Gestión de Pedidos\\GestionPedidos.Dal\\GestionPedidos.Dal.csproj"
-            },
-            "D:\\Act4JuanOvando\\Act4JuanOvando\\Gestión de Pedidos\\GestionPedidos.Modelos\\GestionPedidos.Modelos.csproj": {
-              "projectPath": "D:\\Act4JuanOvando\\Act4JuanOvando\\Gestión de Pedidos\\GestionPedidos.Modelos\\GestionPedidos.Modelos.csproj"
+            "D:\\ProyectoFinalJuanOvando\\ProyectoFinal\\Gestión de Pedidos\\GestionPedidos.Modelos\\GestionPedidos.Modelos.csproj": {
+              "projectPath": "D:\\ProyectoFinalJuanOvando\\ProyectoFinal\\Gestión de Pedidos\\GestionPedidos.Modelos\\GestionPedidos.Modelos.csproj"
             }
           }
         }
@@ -558,6 +533,12 @@
     "frameworks": {
       "net6.0": {
         "targetAlias": "net6.0",
+        "dependencies": {
+          "System.Data.SqlClient": {
+            "target": "Package",
+            "version": "[4.8.6, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

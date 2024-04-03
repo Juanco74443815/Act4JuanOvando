@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ProyectoFinalJuanOvando\\ProyectoFinal\\Gestión de Pedidos\\GestionPedidos.Vista\\GestionPedidos.Vista.csproj",
+      "projectUniqueName": "D:\\Act4JuanOvando\\Act4JuanOvando\\Gestión de Pedidos\\GestionPedidos.Vista\\GestionPedidos.Vista.csproj",
       "projectName": "GestionPedidos.Vista",
-      "projectPath": "D:\\ProyectoFinalJuanOvando\\ProyectoFinal\\Gestión de Pedidos\\GestionPedidos.Vista\\GestionPedidos.Vista.csproj",
+      "projectPath": "D:\\Act4JuanOvando\\Act4JuanOvando\\Gestión de Pedidos\\GestionPedidos.Vista\\GestionPedidos.Vista.csproj",
       "packagesPath": "C:\\Users\\laboratorio a\\.nuget\\packages\\",
-      "outputPath": "D:\\ProyectoFinalJuanOvando\\ProyectoFinal\\Gestión de Pedidos\\GestionPedidos.Vista\\obj\\",
+      "outputPath": "D:\\Act4JuanOvando\\Act4JuanOvando\\Gestión de Pedidos\\GestionPedidos.Vista\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,8 +59,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "D:\\ProyectoFinalJuanOvando\\ProyectoFinal\\Gestión de Pedidos\\GestionPedidos.Modelos\\GestionPedidos.Modelos.csproj": {
-              "projectPath": "D:\\ProyectoFinalJuanOvando\\ProyectoFinal\\Gestión de Pedidos\\GestionPedidos.Modelos\\GestionPedidos.Modelos.csproj"
+            "D:\\Act4JuanOvando\\Act4JuanOvando\\Gestión de Pedidos\\GestionPedidos.Modelos\\GestionPedidos.Modelos.csproj": {
+              "projectPath": "D:\\Act4JuanOvando\\Act4JuanOvando\\Gestión de Pedidos\\GestionPedidos.Modelos\\GestionPedidos.Modelos.csproj"
             }
           }
         }

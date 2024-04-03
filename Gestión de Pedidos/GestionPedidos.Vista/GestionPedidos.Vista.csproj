@@ -9,10 +9,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="D:\Act4JuanOvando\Act4JuanOvando\Form1.cs" Link="Form1.cs" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\GestionPedidos.Modelos\GestionPedidos.Modelos.csproj" />
   </ItemGroup>
 

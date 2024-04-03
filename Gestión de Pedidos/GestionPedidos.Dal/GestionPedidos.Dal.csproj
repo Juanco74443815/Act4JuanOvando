@@ -7,8 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\Act4JuanOvando\Act4JuanOvando\GestionPedidos.Dal\GestionPedidos.Dal.csproj" />
-    <ProjectReference Include="..\GestionPedidos.Dal\GestionPedidos.Dal.csproj" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\GestionPedidos.Modelos\GestionPedidos.Modelos.csproj" />
   </ItemGroup>
 

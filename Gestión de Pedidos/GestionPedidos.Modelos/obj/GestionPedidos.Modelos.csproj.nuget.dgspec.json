@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ProyectoFinalJuanOvando\\ProyectoFinal\\Gestión de Pedidos\\GestionPedidos.Modelos\\GestionPedidos.Modelos.csproj": {}
+    "D:\\Act4JuanOvando\\Act4JuanOvando\\Gestión de Pedidos\\GestionPedidos.Modelos\\GestionPedidos.Modelos.csproj": {}
   },
   "projects": {
-    "D:\\ProyectoFinalJuanOvando\\ProyectoFinal\\Gestión de Pedidos\\GestionPedidos.Modelos\\GestionPedidos.Modelos.csproj": {
+    "D:\\Act4JuanOvando\\Act4JuanOvando\\Gestión de Pedidos\\GestionPedidos.Modelos\\GestionPedidos.Modelos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ProyectoFinalJuanOvando\\ProyectoFinal\\Gestión de Pedidos\\GestionPedidos.Modelos\\GestionPedidos.Modelos.csproj",
+        "projectUniqueName": "D:\\Act4JuanOvando\\Act4JuanOvando\\Gestión de Pedidos\\GestionPedidos.Modelos\\GestionPedidos.Modelos.csproj",
         "projectName": "GestionPedidos.Modelos",
-        "projectPath": "D:\\ProyectoFinalJuanOvando\\ProyectoFinal\\Gestión de Pedidos\\GestionPedidos.Modelos\\GestionPedidos.Modelos.csproj",
+        "projectPath": "D:\\Act4JuanOvando\\Act4JuanOvando\\Gestión de Pedidos\\GestionPedidos.Modelos\\GestionPedidos.Modelos.csproj",
         "packagesPath": "C:\\Users\\laboratorio a\\.nuget\\packages\\",
-        "outputPath": "D:\\ProyectoFinalJuanOvando\\ProyectoFinal\\Gestión de Pedidos\\GestionPedidos.Modelos\\obj\\",
+        "outputPath": "D:\\Act4JuanOvando\\Act4JuanOvando\\Gestión de Pedidos\\GestionPedidos.Modelos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

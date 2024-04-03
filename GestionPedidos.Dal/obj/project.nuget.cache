@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cKYA8DPjJfgPyhacUkPXRoNBTftc4+nHCBi+Bk+0TNwJCUq37GLIxDhWsKi4bUWvj8R6TEnOw4a/qi3urO4YkQ==",
+  "dgSpecHash": "MNVDgevLQhGqgbvalGFAG7zLHwV3fjehhP1uU0kssZRKk57Rh0LYgbSThdnhgfr0b97uD8vaL+W6c0q00H/OzQ==",
   "success": true,
-  "projectFilePath": "D:\\Act4JuanOvando\\Act4JuanOvando\\Gestión de Pedidos\\GestionPedidos.Bss\\GestionPedidos.Bss.csproj",
+  "projectFilePath": "D:\\Act4JuanOvando\\Act4JuanOvando\\GestionPedidos.Dal\\GestionPedidos.Dal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\laboratorio a\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\laboratorio a\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
